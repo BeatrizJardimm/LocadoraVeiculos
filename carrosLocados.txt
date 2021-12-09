@@ -1,0 +1,2 @@
+CARROS ALUGADOS:
+Passageiros: 2 | Descrição: corolla | Placa: ccc3333 | Valor/Diária: 35.75

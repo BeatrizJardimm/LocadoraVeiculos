@@ -1,0 +1,4 @@
+MOTOS DISPONÍVEIS:
+Partida elétrica: s | Descrição: bis | Placa: aaa1111 | Valor/Diária: 25.5
+Partida elétrica: s | Descrição: kawasaki | Placa: fff3333 | Valor/Diária: 20.0
+Partida elétrica: n | Descrição: harley davidson | Placa: abc1234 | Valor/Diária: 75.0

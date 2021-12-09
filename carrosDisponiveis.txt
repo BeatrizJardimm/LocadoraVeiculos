@@ -1,0 +1,5 @@
+CARROS DISPONÍVEIS:
+Passageiros: 5 | Descrição: sorento | Placa: bbb2222 | Valor/Diária: 45.25
+Passageiros: 2 | Descrição: corolla | Placa: ccc3333 | Valor/Diária: 35.75
+Passageiros: 5 | Descrição: zafira | Placa: hhh8888 | Valor/Diária: 34.5
+Passageiros: 5 | Descrição: range rover | Placa: ntc3336 | Valor/Diária: 800.0
